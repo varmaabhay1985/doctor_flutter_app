@@ -46,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen> {
           elevation: 10,
           child: Container(
             width: width * .45,
-            height: height * .8,
+            height: height * .5,
             padding: EdgeInsets.all(16),
             decoration: BoxDecoration(
               color: ColorManager.primary,
